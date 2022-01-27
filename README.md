@@ -1,0 +1,1 @@
+![Crypto Devs Image](./frontend/whitelistfrontend/public/READMEImage.png)
